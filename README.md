@@ -1,5 +1,5 @@
 ## Hi there 👋
-Sou graduada em Engenharia de Software e estou em transição da área da saúde para a Tecnologia da Informação. Minha trajetória na enfermagem me moldou como uma profissional resiliente, capaz de resolver problemas complexos sob pressão e trabalhar de forma colaborativa em ambientes críticos.
+Sou graduado em Engenharia de Software e estou em transição da área da saúde para a Tecnologia da Informação. Minha trajetória na enfermagem me moldou como uma profissional resiliente, capaz de resolver problemas complexos sob pressão e trabalhar de forma colaborativa em ambientes críticos.
 
 Hoje, uno minha experiência em processos e cuidado humano à sólida base técnica adquirida na graduação e especializações em Front-End.
 

@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Engenheira de Software | Desenvolvedora Front-End 
+## Software Engineering | Desenvolvedora Front-End 
 
 Sou graduada em Engenharia de Software e estou em transição da área da saúde para a Tecnologia da Informação. Minha trajetória na enfermagem me moldou como uma profissional resiliente, capaz de resolver problemas complexos sob pressão e trabalhar de forma colaborativa em ambientes críticos.
 

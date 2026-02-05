@@ -1,4 +1,12 @@
 ## Hi there 👋
+## Engenheira de Software | Desenvolvedora Front-End 
+
+Sou graduada em Engenharia de Software e estou em transição da área da saúde para a Tecnologia da Informação. Minha trajetória na enfermagem me moldou como uma profissional resiliente, capaz de resolver problemas complexos sob pressão e trabalhar de forma colaborativa em ambientes críticos.
+
+Hoje, uno minha experiência em processos e cuidado humano à sólida base técnica adquirida na graduação e especializações em Front-End.
+
+🛠 Tecnologias e Ferramentas
+- Linguagens & Frameworks: HTML5, CSS3, JavaScript e React.js. - Controle de Versão: Git e GitHub. - Metodologias & Inovação: Scrum (Agile), IA Generativa
 
 <!--
 **Marra-40/Marra-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
